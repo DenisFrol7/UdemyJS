@@ -46,7 +46,3 @@ movieDB.movies.forEach((film, i) => {
     </li>
     `;
 });
-
-// const li = document.createElement('li');
-// li.classList.add();
-// li.insertAdjacentHTML("afterbegin", "<li>movieDB.movies[0]</li>");
