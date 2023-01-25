@@ -23,6 +23,20 @@
     }
   ],
   "requests": [
-      
+    {
+      "name": "Borderlands",
+      "phone": "+7 (900) 343-34-11",
+      "id": 1
+    },
+    {
+      "name": "Far cry 3",
+      "phone": "+7 (900) 343-34-11",
+      "id": 2
+    },
+    {
+      "name": "Far Cry 3 Blood Dragon",
+      "phone": "+7 (900) 343-34-11",
+      "id": 3
+    }
   ]
 }
