@@ -37,6 +37,26 @@
       "name": "Far Cry 3 Blood Dragon",
       "phone": "+7 (900) 343-34-11",
       "id": 3
+    },
+    {
+      "name": "Borderlands",
+      "phone": "+7 (900) 343-34-11",
+      "id": 4
+    },
+    {
+      "name": "Far cry 3",
+      "phone": "+7 (900) 343-34-11",
+      "id": 5
+    },
+    {
+      "name": "Kinect Adventures",
+      "phone": "+7 (900) 343-34-11",
+      "id": 6
+    },
+    {
+      "name": "Battlefield Bad Company 2",
+      "phone": "+7 (900) 343-34-11",
+      "id": 7
     }
   ]
 }
